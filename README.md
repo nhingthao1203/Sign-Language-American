@@ -18,7 +18,7 @@ This project leverages the following technologies:
 
 - 🐍 [Python](https://www.python.org/)
 - 📊 [NumPy](https://numpy.org/)
-- 🎨 [Streamlit](https://streamlit.io/)
+- 🎨 [App](https://streamlit.io/)
 - 📝 Markdown
 - 🔄 JSON
 
